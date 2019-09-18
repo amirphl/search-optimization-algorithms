@@ -1,4 +1,4 @@
-#Search+Optimization Algorithms
+# Search+Optimization Algorithms
 implementation of some search and optimization algorithms
 
 ## Getting Started
